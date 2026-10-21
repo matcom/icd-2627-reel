@@ -32,4 +32,4 @@ Crea un reel (video corto de hasta 60 segundos) sobre **una** de las siguientes 
 
 - Crea el reel siguiendo las instrucciones anteriores.
 - Publica el link del reel en un issue siguiendo el formato especificado en este README.
-- El deadline para la publicación es **viernes 24 de octubre**.
+- El deadline para la publicación es **viernes 23 de octubre**.
